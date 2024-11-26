@@ -1,8 +1,7 @@
-A deep learning CNN imaging classifier that differentiates between Clean and Polluted Water
 # Polluted vs. Clean Water Classifier
 
 ## Overview
-This project implements a **Deep CNN Image Classifier** to differentiate between polluted and clean water images. Developed using **TensorFlow** and **Keras**, the model achieves an accuracy of **93%**, utilizing a robust pipeline for data preprocessing, training, and evaluation.
+This project implements a **Deep CNN Image Classifier** to differentiate between polluted and clean water images. Developed using **TensorFlow** and **Keras**, the model achieves an accuracy of **93%**, using an effective process for data preprocessing, training, and evaluation.
 
 ---
 
@@ -18,11 +17,3 @@ This project implements a **Deep CNN Image Classifier** to differentiate between
   - Data normalization for improved model performance.
 
 ---
-
-## Installation
-
-### Dependencies
-Install the required libraries:
-```bash
-pip install tensorflow opencv-python matplotlib
-
